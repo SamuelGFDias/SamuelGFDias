@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Samuel Dias e sou desenvolvedor fullstack do Brasil</h2>
+<h2 align="left">Oi 👋! Meu nome é Samuel Dias e sou desenvolvedor fullstack</h2>
 
 ###
 
