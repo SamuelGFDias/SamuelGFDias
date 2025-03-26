@@ -34,10 +34,10 @@
   </a>
 </div>
 
-###
+<!-- ###
 
 <br clear="both">
 
 ![Snake animation](https://raw.githubusercontent.com/SamuelGFDias/output/github-contribution-grid-snake.svg)
 
-###
+### -->
