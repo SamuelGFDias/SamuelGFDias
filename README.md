@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Samuel Dias! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
+8<h1 align="center">Olá, eu sou o Samuel Dias! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
@@ -14,11 +14,10 @@
 
 <br>
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px"> Atualmente trabalhando em sistemas de ordens de serviço, integração com Sankhya e bots automatizados
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> Explorando IA, WebSocket, SignalR e automações com Python
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px"> Atualmente trabalhando em sistemas de ordens de serviço, integração com Sankhya e automações com Python
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> Explorando WebSocket, SignalR e criando packages no Nuget(.Net) e pub.dev(Flutter)
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px"> Aprendendo e contribuindo com projetos open source no GitHub
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px"> Pronome: Ele/Dele
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px"> Fato curioso: eu automatizo até a lista de compras de casa (quando dá)!
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px"> Fato curioso: sou viciado em café,
 
 ---
 
