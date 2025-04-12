@@ -1,43 +1,75 @@
-<h2 align="left">Oi 👋! Meu nome é Samuel Dias e sou desenvolvedor fullstack</h2>
+<h1 align="center">Olá, eu sou o Samuel Dias! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
 
-###
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Seja bem-vindo ao meu perfil!
+
+<p>
+  <em>
+    Desenvolvedor Fullstack apaixonado por tecnologia, que acredita na melhoria contínua como chave para crescer e entregar soluções cada vez melhores. <br>
+    Atuo com <b>Flutter</b> no front e <b>C# com .NET</b> no back, buscando sempre a melhor experiência para o usuário e performance para o sistema. <br>
+    Também amo Python e automações que economizam tempo e aumentam produtividade.
+  </em>
+</p>
+
+<br>
+
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px"> Atualmente trabalhando em sistemas de ordens de serviço, integração com Sankhya e bots automatizados
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> Explorando IA, WebSocket, SignalR e automações com Python
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px"> Aprendendo e contribuindo com projetos open source no GitHub
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px"> Pronome: Ele/Dele
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px"> Fato curioso: eu automatizo até a lista de compras de casa (quando dá)!
+
+---
+
+## 🧰 Tecnologias que uso no dia a dia
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelGFDias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-BR&hide_border=false" height="150" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelGFDias&locale=pt-BR&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="Dotnet" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://github.com/SamuelGFDias/SamuelGFDias/blob/main/assets/images/th.jpeg" />
+## 📊 GitHub Stats
 
-
-###
-
-<div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelGFDias&show_icons=true&theme=tokyonight&locale=pt-BR" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGFDias&layout=compact&langs_count=6&theme=tokyonight" height="170">
 </div>
 
-###
+---
 
-<div align="left">
+## 📫 Onde me encontrar
+
+<div align="center">
   <a href="https://www.instagram.com/Samuel_GFDias" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:samudias48@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/samuelgfdias" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SamuelGFDias" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
-<!-- ###
+---
 
-<br clear="both">
+## 🕹️ Easter Egg
 
-![Snake animation](https://raw.githubusercontent.com/SamuelGFDias/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%">
 
-### -->
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SamuelGFDias)
