@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelGFDias&show_icons=true&theme=tokyonight&locale=pt-BR" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGFDias&langs_count=6&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGFDias&langs_count=6&theme=tokyonight&locale=pt-BR" height="350">
 </div>
 
 ---
