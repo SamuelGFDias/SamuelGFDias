@@ -1,74 +1,70 @@
-8<h1 align="center">Olá, eu sou o Samuel Dias! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
+# Samuel Dias
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+**Desenvolvedor full stack: .NET, Angular, Flutter e Next.js.**
+Construo monólitos modulares, APIs e aplicações web em produção, cuidando do projeto inteiro: planejamento, design, programação e publicação.
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Seja bem-vindo ao meu perfil!
-
-<p>
-  <em>
-    Desenvolvedor Fullstack apaixonado por tecnologia, que acredita na melhoria contínua como chave para crescer e entregar soluções cada vez melhores. <br>
-    Atuo com <b>Flutter</b> no front e <b>C# com .NET</b> no back, buscando sempre a melhor experiência para o usuário e performance para o sistema. <br>
-    Também amo Python e automações que economizam tempo e aumentam produtividade.
-  </em>
-</p>
-
-<br>
-
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px"> Atualmente trabalhando em sistemas de ordens de serviço, integração com Sankhya e automações com Python
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> Explorando WebSocket, SignalR e criando packages no Nuget(.Net) e pub.dev(Flutter)
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px"> Aprendendo e contribuindo com projetos open source no GitHub
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px"> Fato curioso: sou viciado em café
+[Portfólio para devs](https://samueldias.dev.br/dev) · [Site para clientes](https://samueldias.dev.br)
 
 ---
 
-## 🧰 Tecnologias que uso no dia a dia
+## Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="Dotnet" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-</div>
+**Back-end:** C# (.NET 8/9/10), APIs e microsserviços, arquiteturas orientadas a domínio, monólitos modulares
 
----
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
 
-## 📊 GitHub Stats
+**Front-end:** Angular, Next.js, TypeScript, Tailwind CSS
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelGFDias&show_icons=true&theme=tokyonight&locale=pt-BR" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGFDias&langs_count=6&theme=tokyonight&locale=pt-BR" height="350">
-</div>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+**Multiplataforma:** Flutter e Dart, para mobile e desktop
 
-## 📫 Onde me encontrar
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<div align="center">
-  <a href="https://www.instagram.com/Samuel_GFDias" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:samudias48@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/samuelgfdias" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SamuelGFDias" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+**Dados e infraestrutura:** modelagem relacional, SQL Server, PostgreSQL, Docker, Keycloak (OIDC), MinIO
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 ---
 
-## 🕹️ Easter Egg
+## Projetos em produção
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%">
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**Condomínio App**](https://app.condominio.samueldias.dev.br) | Plataforma multi-tenant de gestão de condomínios para síndicos, moradores e portaria: cobrança por Pix, reservas, ocorrências e avisos. Monólito modular com nove módulos, outbox em PostgreSQL e front-end PWA instalável no Android e no iPhone. | .NET 10, Angular 22, PostgreSQL 17, Wolverine, Keycloak, MinIO, Docker |
+| [**Fio e Forma**](https://fioforma.com.br) | E-commerce de macramê artesanal com checkout via Mercado Pago, área do cliente, cupons e painel administrativo para personalizar o site. | Next.js, TypeScript, PostgreSQL, Keycloak, MinIO, Mercado Pago, Playwright |
+| [**ESO Engenharia**](https://esoengenharia.seg.br) | Site institucional de engenharia civil e segurança do trabalho, voltado à adequação a normas regulamentadoras (NRs) e a projetos estruturais. | Next.js, TypeScript, Tailwind CSS, Keycloak, NextAuth, Docker |
+| [**Portfólio Terminal**](https://samueldias.dev.br/dev) | Portfólio com terminal interativo, tema escuro e painel admin. | Next.js, TypeScript, Tailwind CSS, Keycloak, NextAuth, Docker |
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SamuelGFDias)
+## Open source
+
+Pacotes .NET que construí para padronizar projetos:
+
+| Pacote | O que faz |
+|---|---|
+| [**AuditLog.Generator**](https://github.com/SamuelGFDias/audit_log) · [NuGet](https://www.nuget.org/packages/AuditLog.Generator) | Gera trilha de auditoria de entidades via source generator. |
+| [**Queryable.DynamicFilter**](https://github.com/SamuelGFDias/Queryable) · [NuGet](https://www.nuget.org/packages/Queryable.DynamicFilter) | Filtros dinâmicos sobre `IQueryable`. |
+| [**SankhyaAPI.Client**](https://github.com/SamuelGFDias/SankhyaAPI) · [NuGet](https://www.nuget.org/packages/SankhyaAPI.Client) | Client .NET para a API do ERP Sankhya. |
+| [**data-dictionary**](https://github.com/SamuelGFDias/data-dictionary) | Dicionário de dados vivo: um source generator mantém no banco os enums da aplicação (nome, campo e valor persistido), com seed idempotente via EF Core. |
+| [**rulekit**](https://github.com/SamuelGFDias/rulekit) | Motor de regras arquiteturais como Roslyn Analyzer, com a política definida em YAML externo e validada no build/IDE. |
+
+---
+
+## Contato
+
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samudias48@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/samuelgfdias)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuel_gfdias)
+[![Site](https://img.shields.io/badge/samueldias.dev.br-111111?style=for-the-badge)](https://samueldias.dev.br)
